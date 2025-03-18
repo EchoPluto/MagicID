@@ -4,7 +4,7 @@
 ## 😍 Demo 
 
 <div align="center">
-  <video src="./assets/demo.mp4" width="70%" poster="./assets/demo.png"> </video>
+  <video src="https://github.com/EchoPluto/MagicID/blob/main/assets/demo.mp4" width="100%" poster="./assets/demo.png"> </video>
 </div>
 you can click <a href="https://echopluto.github.io/MagicID-project/">here</a> to watch the videos.
 
